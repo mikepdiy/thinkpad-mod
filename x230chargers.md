@@ -12,6 +12,7 @@
   <li> Aukey	dual port 45W	(can only charge the laptop is powered off)</li>
   <li> Xiaomi	Mi pro power bank 3	45W (can only charge the laptop is powered off)</li>
   <li> Baseus	65W GaN Mini Quick Travel Charger	( Be careful as there are many fakes and those as dangerous !)</li>
+  <li> Baseus 100W GaN2 Pro Quick Charger - Model No.: CCGAN100UE (Be careful as there are many fakes and those as dangerous !)</li>
   
  </ul>
   
